@@ -38,8 +38,6 @@
 
 <div align="center">
   
-  ![Streak](https://streak-stats.demolab.com/?user=MohammadEfafi&theme=radical&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&theme=radical&langs_count=8&hide_border=true)
   
 </div>
