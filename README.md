@@ -1,10 +1,12 @@
-# ✨ **Mohammad Efafi** | **Python & Django Developer** 
+<div align="center">
+  <h1 style="font-size: 2.5rem;">✨ <strong>Mohammad Efafi</strong> | <strong>Python & Django Developer</strong></h1>
+</div>
+
 
 <div align="center">
   
-
-  
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7E3ACE&background=45FF5D00&center=true&vCenter=true&width=600&lines=Python+Lover;C%2B%2B+%26+C%23+Explorer;Django+Enthusiast;Problem+Solver;HTML+%26+CSS+Stylist;Backend+Developer)
+
 <div align="center">
 
   ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
@@ -13,29 +15,30 @@
   
 </div>
 
-## 🚀 **Tech Arsenal**
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&amp;logo=django&amp;logoColor=white&amp;color=ff1709&amp;labelColor=gray" alt="DjangoREST">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+## 🛠️ **Technologies & Tools**
+
+### 📌 **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### 🌐 **Web Development**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=Django&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🗃️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-
-  
-  ![Streak](https://streak-stats.demolab.com/?user=MohammadEfafi&theme=radical&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&theme=radical&langs_count=8&hide_border=true)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadEfafi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=28&custom_title=My%20Development%20Activity"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 ## 🌐 **Connect With Me**
@@ -55,3 +58,4 @@
   ![GitHub Stars](https://img.shields.io/github/stars/MohammadEfafi?label=Stars&style=social)
   
 </div>
+
