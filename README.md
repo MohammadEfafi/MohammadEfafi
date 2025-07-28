@@ -37,8 +37,11 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadEfafi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=28&custom_title=My%20Development%20Activity"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  
+  ![Streak](https://streak-stats.demolab.com/?user=MohammadEfafi&theme=radical&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&theme=radical&langs_count=8&hide_border=true)
+  
 </div>
 
 ## 🌐 **Connect With Me**
