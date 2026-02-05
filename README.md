@@ -25,12 +25,18 @@
 
 ### 🌐 **Web Development**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=Django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+### ⚙️ **Backend & Async Tools**
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 ### 🗃️ **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
