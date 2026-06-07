@@ -40,11 +40,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs">
-</div>
 
 ## 🌐 **Connect With Me**
 
