@@ -43,9 +43,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&theme=radical&langs_count=8&hide_border=true)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEfafi&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs">
 </div>
 
 ## 🌐 **Connect With Me**
